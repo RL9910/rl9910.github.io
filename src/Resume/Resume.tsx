@@ -11,7 +11,7 @@ export function Resume(){
         <div className="resume-container">
             <button className="back-home-button" onClick={()=>navigate("/")}>Back</button>
             <h2>My Resume</h2>
-            <a href={resumepdf} download="resume.pdf" className="download-button">Download PDF</a>
+            <a href={resumepdf} download="Richard_Lee_Resume.pdf" className="download-button">Download PDF</a>
             <img src={resume} alt="resume" className="resume-image"></img>
             
             
