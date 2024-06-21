@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ed42c70b.css",
-    "main.js": "/static/js/main.7954cfc7.js",
+    "main.css": "/static/css/main.056562e3.css",
+    "main.js": "/static/js/main.ece8654c.js",
     "static/js/453.7476e934.chunk.js": "/static/js/453.7476e934.chunk.js",
     "static/media/JobSearch2.png": "/static/media/JobSearch2.0d1f6f11c5f355844959.png",
     "static/media/forum6.png": "/static/media/forum6.d4ed549e1e650f91e305.png",
@@ -23,15 +23,16 @@
     "static/media/easyjob-erd.png": "/static/media/easyjob-erd.6e0f794541d44ce399ae.png",
     "static/media/dashboard3.png": "/static/media/dashboard3.15f8a414c33e037687c5.png",
     "static/media/dashboard2.png": "/static/media/dashboard2.fe4069aec258117f03a0.png",
+    "static/media/resume.pdf": "/static/media/resume.99ee729313dc3576736e.pdf",
     "static/media/easyjobtech.png": "/static/media/easyjobtech.1463226156c8dbf2880c.png",
     "static/media/easyjob.png": "/static/media/easyjob.376b0ad774bf393a8094.png",
     "index.html": "/index.html",
-    "main.ed42c70b.css.map": "/static/css/main.ed42c70b.css.map",
-    "main.7954cfc7.js.map": "/static/js/main.7954cfc7.js.map",
+    "main.056562e3.css.map": "/static/css/main.056562e3.css.map",
+    "main.ece8654c.js.map": "/static/js/main.ece8654c.js.map",
     "453.7476e934.chunk.js.map": "/static/js/453.7476e934.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed42c70b.css",
-    "static/js/main.7954cfc7.js"
+    "static/css/main.056562e3.css",
+    "static/js/main.ece8654c.js"
   ]
 }
