@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.056562e3.css",
-    "main.js": "/static/js/main.4a87b6ec.js",
+    "main.js": "/static/js/main.79f40d27.js",
     "static/js/453.7476e934.chunk.js": "/static/js/453.7476e934.chunk.js",
     "static/media/JobSearch2.png": "/static/media/JobSearch2.0d1f6f11c5f355844959.png",
     "static/media/forum6.png": "/static/media/forum6.d4ed549e1e650f91e305.png",
@@ -18,21 +18,21 @@
     "static/media/forum2.png": "/static/media/forum2.dbea91487981af30635e.png",
     "static/media/inspiration.png": "/static/media/inspiration.448b38bf4c5809d44ee8.png",
     "static/media/forum1.png": "/static/media/forum1.b5c33af66c885c673f59.png",
-    "static/media/resume.png": "/static/media/resume.2fbd998b7793cb860115.png",
     "static/media/dashboard1.png": "/static/media/dashboard1.b469b9ff0732ce894bbf.png",
     "static/media/easyjob-erd.png": "/static/media/easyjob-erd.6e0f794541d44ce399ae.png",
+    "static/media/resume.png": "/static/media/resume.9f44218b5d681bbd448b.png",
     "static/media/dashboard3.png": "/static/media/dashboard3.15f8a414c33e037687c5.png",
     "static/media/dashboard2.png": "/static/media/dashboard2.fe4069aec258117f03a0.png",
-    "static/media/resume.pdf": "/static/media/resume.99ee729313dc3576736e.pdf",
+    "static/media/resume.pdf": "/static/media/resume.db7dfe2ae019331db6fc.pdf",
     "static/media/easyjobtech.png": "/static/media/easyjobtech.1463226156c8dbf2880c.png",
     "static/media/easyjob.png": "/static/media/easyjob.376b0ad774bf393a8094.png",
     "index.html": "/index.html",
     "main.056562e3.css.map": "/static/css/main.056562e3.css.map",
-    "main.4a87b6ec.js.map": "/static/js/main.4a87b6ec.js.map",
+    "main.79f40d27.js.map": "/static/js/main.79f40d27.js.map",
     "453.7476e934.chunk.js.map": "/static/js/453.7476e934.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.056562e3.css",
-    "static/js/main.4a87b6ec.js"
+    "static/js/main.79f40d27.js"
   ]
 }
